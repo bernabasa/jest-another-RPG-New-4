@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernabasa/jest-another-RPG-New-4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernabasa/jest-another-RPG-New-4/issues"
+  },
+  "homepage": "https://github.com/bernabasa/jest-another-RPG-New-4#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
